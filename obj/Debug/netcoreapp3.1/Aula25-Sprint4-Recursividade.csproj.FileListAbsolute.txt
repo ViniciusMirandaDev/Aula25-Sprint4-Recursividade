@@ -1,0 +1,13 @@
+C:\Users\amand\Desktop\Projeto senai\Aula25-Sprint4-Recursividade\obj\Debug\netcoreapp3.1\Aula25-Sprint4-Recursividade.csprojAssemblyReference.cache
+C:\Users\amand\Desktop\Projeto senai\Aula25-Sprint4-Recursividade\obj\Debug\netcoreapp3.1\Aula25-Sprint4-Recursividade.csproj.CoreCompileInputs.cache
+C:\Users\amand\Desktop\Projeto senai\Aula25-Sprint4-Recursividade\obj\Debug\netcoreapp3.1\Aula25-Sprint4-Recursividade.AssemblyInfoInputs.cache
+C:\Users\amand\Desktop\Projeto senai\Aula25-Sprint4-Recursividade\obj\Debug\netcoreapp3.1\Aula25-Sprint4-Recursividade.AssemblyInfo.cs
+C:\Users\amand\Desktop\Projeto senai\Aula25-Sprint4-Recursividade\bin\Debug\netcoreapp3.1\Aula25-Sprint4-Recursividade.exe
+C:\Users\amand\Desktop\Projeto senai\Aula25-Sprint4-Recursividade\bin\Debug\netcoreapp3.1\Aula25-Sprint4-Recursividade.deps.json
+C:\Users\amand\Desktop\Projeto senai\Aula25-Sprint4-Recursividade\bin\Debug\netcoreapp3.1\Aula25-Sprint4-Recursividade.runtimeconfig.json
+C:\Users\amand\Desktop\Projeto senai\Aula25-Sprint4-Recursividade\bin\Debug\netcoreapp3.1\Aula25-Sprint4-Recursividade.runtimeconfig.dev.json
+C:\Users\amand\Desktop\Projeto senai\Aula25-Sprint4-Recursividade\bin\Debug\netcoreapp3.1\Aula25-Sprint4-Recursividade.dll
+C:\Users\amand\Desktop\Projeto senai\Aula25-Sprint4-Recursividade\bin\Debug\netcoreapp3.1\Aula25-Sprint4-Recursividade.pdb
+C:\Users\amand\Desktop\Projeto senai\Aula25-Sprint4-Recursividade\obj\Debug\netcoreapp3.1\Aula25-Sprint4-Recursividade.dll
+C:\Users\amand\Desktop\Projeto senai\Aula25-Sprint4-Recursividade\obj\Debug\netcoreapp3.1\Aula25-Sprint4-Recursividade.pdb
+C:\Users\amand\Desktop\Projeto senai\Aula25-Sprint4-Recursividade\obj\Debug\netcoreapp3.1\Aula25-Sprint4-Recursividade.genruntimeconfig.cache
